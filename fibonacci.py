@@ -13,7 +13,7 @@ fib(40)
 elapsed_time = time.time() - start
 '''
 
-''' elapled_time = 6.6e-5 [esc.]
+''' elapled_time = 6.6e-5 [sec.]
 
 from functools import lru_cache
 @lru_cache(maxsize=None)
